@@ -1,4 +1,4 @@
-#  BMI Calculator
+# A Simple BMI Calculator
 
 ![BMI Calculator](Screenshot_2024-08-15_172234.png)
 
